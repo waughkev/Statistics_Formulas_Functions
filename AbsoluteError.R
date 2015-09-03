@@ -3,8 +3,8 @@
 ##Formula: absolute_error = measured value - true value
 
 ##Console Script, run the following lines inside the R Console to get the answer
-measured_value <- 2779      ##change number to what you need
-true_value <- 957           ##change number to what you need
+measured_value <- 1000      ##change number to what you need
+true_value <- 500           ##change number to what you need
 absolute_error <- measured_value - true_value
 absolute_error
 
