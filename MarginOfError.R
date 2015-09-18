@@ -9,9 +9,9 @@ marginOfError
 
 ##function View
 MarginOfError <- function(sample,standarddeviation) {
-  MOfE <- <- (2 * standarddeviation)/sqrt(sample)
+  MOfE <- (2 * standarddeviation)/sqrt(sample)
   return(MOfE)
 }
 
 ##Sample line to run function after function created inside R.
-MarginofError(100,10)
+MarginOfError(100,10)
